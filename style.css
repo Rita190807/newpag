@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    background-image: url("https://th.bing.com/th/id/R.08244fb2a8c68abc725cd9fcbda93a46?rik=H%2fGH9v%2fcDLd28Q&pid=ImgRaw&r=0");
+    margin: 0%;
+    padding: 1rem;
+}
+.nav {
+    
+    margin-right: 1rem;
+    margin-left: 1rem;
+    padding-right: 1rem;
+    padding-right: 1rem;
+   
+}
+.ul {
+    display: flex;
+    margin: 0.2em;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    list-style: none;
+}
+.li {
+    margin: 2em;
+    a{
+        font-size: 18px;
+        text-decoration: none;
+        color: rgb(10, 10, 10)
+    }
+}
